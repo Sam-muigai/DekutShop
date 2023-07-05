@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "823644120838",
+    "project_id": "dekutshop",
+    "storage_bucket": "dekutshop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823644120838:android:f7cb6bb6ff2d1aaae9a087",
+        "android_client_info": {
+          "package_name": "com.samkt.dekutshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823644120838-nhts1odg4fm3dv3s39ubgo85bi0c4o10.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.samkt.dekutshop",
+            "certificate_hash": "0125982cdfb93d518fb134e77ec18d6fc82cc8f6"
+          }
+        },
+        {
+          "client_id": "823644120838-rqloghvpceq90atok1sbl0vpddce5tra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPyFkfaEQQi0uMuYARTegjzPhcYoXgRHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823644120838-rqloghvpceq90atok1sbl0vpddce5tra.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
